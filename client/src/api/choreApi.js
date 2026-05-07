@@ -1,5 +1,5 @@
 const API_URL =
-  "http://10.129.103.230:5000/api/chores";
+  "https://roomease-production-6413.up.railway.app/api/chores";
 
 
 // GET TOKEN
