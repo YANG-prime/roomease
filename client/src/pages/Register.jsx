@@ -31,7 +31,7 @@ function Register() {
       setSuccess("");
 
       const response = await fetch(
-        "http://10.129.103.230:5000/api/auth/register",
+        "https://roomease-production-6413.up.railway.app/api/auth/register",
         {
           method: "POST",
 
